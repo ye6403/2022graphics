@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1653894042 source:c:\users\user\desktop\week15-3 mp3\main.cpp
+	"CMP3_MCI.h"
+	<stdio.h>
+
+1653893966 c:\users\user\desktop\week15-3 mp3\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
